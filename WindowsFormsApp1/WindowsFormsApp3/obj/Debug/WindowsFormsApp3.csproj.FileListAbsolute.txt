@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
